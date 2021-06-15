@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: calcul.CalculTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.088 s <<< FAILURE! - in calcul.CalculTest
+testDivision  Time elapsed: 0.044 s  <<< ERROR!
+java.lang.IllegalArgumentException: b ne doit pas etre 0
+	at calcul.CalculTest.testDivision(CalculTest.java:23)
+

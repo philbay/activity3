@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/home/philemon/Documents/C306-Genie Logiciel/Devoir2_C306/src/main/java/Calcul.java">
+<error line="0" severity="error" message="Manquant fichier package-info.java." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="2" severity="error" message="Commentaire javadoc manquant." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+</checkstyle>
